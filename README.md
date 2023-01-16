@@ -1,7 +1,5 @@
 Title: CS680 Final Project
 
-Name:   Xuetong Wang AND
-        Guanting Pan
 
 Note:   - This is the repo for the cycleGAN and video transfer program
         - To reproduce the result, we strongly recommand to use a GPU  to run the experiment
